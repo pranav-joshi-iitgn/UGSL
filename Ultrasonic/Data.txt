@@ -1,0 +1,5 @@
+frequency = 3.05 MHz
+L = 1370 -276 mm = 1094 mm
+zero error MSR = 14.5
+zero error CSR = 8
+lambda = 650e-6
